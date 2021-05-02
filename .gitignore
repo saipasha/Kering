@@ -1,0 +1,4 @@
+fashion_mnist_images/
+fashion_mnist_images.zip
+.ipynb_checkpoints
+.env
